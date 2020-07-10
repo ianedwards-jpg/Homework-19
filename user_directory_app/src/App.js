@@ -19,7 +19,8 @@ class App extends Component {
 
   componentDidMount() {
     //const url = "https://jsonplaceholder.typicode.com/posts";
-    const url = "https://gist.githubusercontent.com/rominirani/8235702/raw/a50f7c449c41b6dc8eb87d8d393eeff62121b392/employees.json"
+    //const url = "https://gist.githubusercontent.com/rominirani/8235702/raw/a50f7c449c41b6dc8eb87d8d393eeff62121b392/employees.json"
+    const url = "https://raw.githubusercontent.com/ianedwards-jpg/Homework-19/master/user_directory_app/public/employees.json"
     fetch(url, {
       method: "GET"
     }).then(response => response.json()).then(posts => {
