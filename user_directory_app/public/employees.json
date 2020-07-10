@@ -11,16 +11,84 @@
             "phoneNumber": "408-1234567",
             "emailAddress": "romin.k.irani@gmail.com"
         },
+        
         {
-            "userId": "nirani",
-            "jobTitleName": "Developer",
-            "firstName": "Neil",
-            "lastName": "Irani",
-            "preferredFullName": "Neil Irani",
+            "userId": "kirani",
+            "jobTitleName": "Intern",
+            "firstName": "Kaleb",
+            "lastName": "Fuchs",
+            "preferredFullName": "Kaleb Fuchs",
             "employeeCode": "E2",
             "region": "CA",
-            "phoneNumber": "408-1111111",
-            "emailAddress": "neilrirani@gmail.com"
+            "phoneNumber": "408-12270",
+            "emailAddress": "kalebfuchs@gmail.com"
+        },
+        {
+            "userId": "sirani",
+            "jobTitleName": "Developer",
+            "firstName": "Santiago",
+            "lastName": "Compostela",
+            "preferredFullName": "Santo Compost",
+            "employeeCode": "E2",
+            "region": "CA",
+            "phoneNumber": "408-12345",
+            "emailAddress": "santiago.decompostla@gmail.com"
+        },
+        {
+            "userId": "lirani",
+            "jobTitleName": "Intern",
+            "firstName": "Lyman",
+            "lastName": "Houser",
+            "preferredFullName": "Lyman Houser",
+            "employeeCode": "E2",
+            "region": "MO",
+            "phoneNumber": "408-12346",
+            "emailAddress": "lymanhouser@gmail.com"
+        },
+        {
+            "userId": "oirani",
+            "jobTitleName": "Developer",
+            "firstName": "Oluyoye",
+            "lastName": "Kasbah",
+            "preferredFullName": "Kaz Kasbah",
+            "employeeCode": "E2",
+            "region": "CT",
+            "phoneNumber": "408-12347",
+            "emailAddress": "kazkasbah@gmail.com"
+        },
+        {
+            "userId": "girani",
+            "jobTitleName": "Intern",
+            "firstName": "Gaylen",
+            "lastName": "Valentine",
+            "preferredFullName": "Greg Valentine",
+            "employeeCode": "E2",
+            "region": "NY",
+            "phoneNumber": "408-12348",
+            "emailAddress": "gaylenvalentine@gmail.com"
+        },
+        {
+            "userId": "cirani",
+            "jobTitleName": "Developer",
+            "firstName": "Cross",
+            "lastName": "Porter",
+            "preferredFullName": "Chrissy Porter",
+            "employeeCode": "E2",
+            "region": "NY",
+            "phoneNumber": "408-12349",
+            "emailAddress": "crossporter@gmail.com"
+        },
+
+        {
+            "userId": "nirani",
+            "jobTitleName": "Manager",
+            "firstName": "Big ",
+            "lastName": "Daddy",
+            "preferredFullName": "Big Daddy",
+            "employeeCode": "E2",
+            "region": "NY",
+            "phoneNumber": "408-111112",
+            "emailAddress": "bigdaddy@gmail.com"
         },
         {
             "userId": "thanks",
