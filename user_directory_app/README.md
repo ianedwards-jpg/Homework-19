@@ -1,4 +1,44 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Heroku-React-Table-App
+ 
+## Overview
+
+Heroku JSON Table Application is a dynamic table used to display JSON data in a table that can be sorted alphabetically, by phone number, by Employee ID or any other field.
+
+## Views
+
+
+Heroku JSON Table Application is a single page table that will allow you to view and sort JSON data in ascending or decending order per each field.
+
+![Main Page](https://github.com/ianedwards-jpg/Heroku-React-Table-App/blob/master/react-table-heroku/client/public/react_table.jpg)
+
+Users can sort the table by
+
+* User ID 
+
+* Job Title
+
+* First Name 
+
+* Last Name 
+
+* Preferred Name 
+
+* Employee Code 
+
+* Employee Region 
+
+* Phone Number 
+
+* Email 
+
+## Usage 
+
+If you wish to view your own JSON via this application, you will need to update the URL within the Ajax call, as well as the "req" fields to match the data you are trying to map. You will also have manually modify the column titles to fit your JSON. 
+
+## Future Development
+
+In the future, I wish to modify the GUI so that a URL can be inserted and JSON added to the table via an on-screen URL bar.
+
 
 ## Available Scripts
 
@@ -37,32 +77,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
